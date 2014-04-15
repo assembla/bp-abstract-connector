@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "accessToken": "text"
+  },
+  "container": {
+    "urlName": "text",
+    "urlPattern": "https://PROJECT_NAME.com/%urlName"
+  },
+  "importGoalsInfo": "We’ll import open goals.",
+  "userInvitationInfo": "We’ll invite users that have an email published on their account."
+}

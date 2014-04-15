@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "accessToken":  ""
+  },
+
+  "createGoal": {
+    "goal": {
+      "title":        "test-goal",
+      "description":  "some text description here"
+    }
+  },
+
+  "updateGoal": {
+    "goal": {
+      "title":        "updated-test-goal",
+      "description":  "some text description here\n\n---\nsome text"
+    }
+  },
+
+  "getGoal": {},
+
+  "getGoals": {},
+
+  "getUsers": {},
+
+  "getProjects": {}
+}
