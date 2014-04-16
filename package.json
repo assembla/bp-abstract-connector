@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/Assembla/PROJECT_NAME",
   "dependencies": {
-    "underscore": "1.6.0"
   },
   "devDependencies": {
-    "grunt": "0.4.2",
-    "jshint": "2.4.4",
+    "underscore": "1.6.0",
+    "grunt": "0.4.4",
+    "jshint": "2.5.0",
     "grunt-cli": "0.1.13",
-    "grunt-contrib-jshint": "0.8.0",
+    "grunt-contrib-jshint": "0.10.0",
     "grunt-jasmine-node": "0.1.0"
   }
 }
